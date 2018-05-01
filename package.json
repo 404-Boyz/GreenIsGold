@@ -1,5 +1,5 @@
 {
-  "name": "boilermaker",
+  "name": "greenIsGold",
   "version": "1.0.0",
   "description": "Some boilerplate code to get you started - get shakin'!",
   "engines": {
@@ -68,5 +68,6 @@
     "supertest": "^3.0.0",
     "webpack": "^4.0.1",
     "webpack-cli": "^2.0.9"
-  }
+  },
+  "repository": "https://github.com/404-Boyz/GreenIsGold.git"
 }
