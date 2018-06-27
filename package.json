@@ -1,7 +1,7 @@
 {
-  "name": "greenIsGold",
+  "name": "greenisgold",
   "version": "1.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "Urban farming for the modern horticulturalist",
   "engines": {
     "node": ">= 7.0.0"
   },
@@ -41,6 +41,7 @@
     "redux": "^3.6.0",
     "redux-logger": "^2.8.1",
     "redux-thunk": "^2.2.0",
+    "semantic-ui-react": "^0.81.3",
     "sequelize": "^4.3.1",
     "socket.io": "^2.0.3"
   },
